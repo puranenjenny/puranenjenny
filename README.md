@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 Graduated with a Bachelor’s degree in ICT (Programming) at the end of 2025
+🎓 Graduated with a Bachelor’s degree in ICT (Programming) at the end of 2025  
 📚 Exploring AI development through Microsoft’s micro-degree program  
 🚀 Looking forward to launching my full-time developer career
 🤝 Open to collaborating on creative, human-centered tech projects  
