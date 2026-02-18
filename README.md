@@ -2,7 +2,7 @@
 
 🎓 Graduated with a Bachelor’s degree in ICT (Programming) at the end of 2025  
 📚 Exploring AI development through Microsoft’s micro-degree program  
-🚀 Looking forward to launching my full-time developer career
+🚀 Looking forward to launching my full-time developer career  
 🤝 Open to collaborating on creative, human-centered tech projects  
 💬 Happy to chat about animals, vegan food and video games  
 🎨 Fun fact: I'm also a trained textile artisan and love all things crafting & design
